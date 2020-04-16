@@ -18,9 +18,9 @@ public class Main extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getCommand("warp").setExecutor(new Warp());
-        getCommand("setwarp").setExecutor(new SetWarp());
-        getCommand("delwarp").setExecutor(new DelWarp());
+        getCommand("rtp").setExecutor(new Warp());
+        getCommand("setrtp").setExecutor(new SetWarp());
+        getCommand("delrtp").setExecutor(new DelWarp());
         saveResource("config.yml", false);
         loadWarps();
     }

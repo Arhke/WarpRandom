@@ -3,9 +3,9 @@ main: net.waterraid.WarpRandom.Main
 desc: WarpRandom by Arhke
 version: 1.0
 commands:
-  warp:
+  rtp:
     usage: /<command>
-  setwarp:
+  setrtp:
     usage: /<command>
-  delwarp:
+  delrtp:
     usage: /<command>
