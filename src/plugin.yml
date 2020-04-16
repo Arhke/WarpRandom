@@ -1,0 +1,11 @@
+name : WarpRandom
+main: net.waterraid.WarpRandom.Main
+desc: WarpRandom by Arhke
+version: 1.0
+commands:
+  warp:
+    usage: /<command>
+  setwarp:
+    usage: /<command>
+  delwarp:
+    usage: /<command>

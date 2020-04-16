@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WarpRandom">
+    <output-path>$USER_HOME$/Documents/mc/1.8.8/plugins</output-path>
+    <root id="archive" name="WarpRandom.jar">
+      <element id="module-output" name="WarpRandom" />
+    </root>
+  </artifact>
+</component>
